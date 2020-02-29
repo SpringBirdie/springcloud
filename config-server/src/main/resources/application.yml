@@ -1,0 +1,32 @@
+server:
+  port: 8008
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Super-LiD/config-server.git
+          username: lidong_33@163.com
+          password: lidong33
+    bus:
+      trace:
+        enabled: true
+
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://zzzzzz:8761/eureka/,http://llllll:8763/eureka/

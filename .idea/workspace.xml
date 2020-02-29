@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de266470-b33b-4299-a852-1ab2876a2649" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Program Files (x86)/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\Program Files (x86)\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y6GI0FdBB4hF6If3S80WpDot7n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/providerfour/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiaoli.providertwo.dao" />
+      <recent name="com.xiaoli.consumerone.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program Files\super_lid\springcloud\providerfour\src\main\resources" />
+      <recent name="E:\Program Files\super_lid\springcloud\providerthree\src\main\resources" />
+      <recent name="E:\Program Files\super_lid\springcloud\providerfour\src\main\java\com\xiaoli\providerfour" />
+      <recent name="E:\Program Files\super_lid\springcloud\providerthree\src\main\java\com\xiaoli\providerthree" />
+      <recent name="E:\Program Files\super_lid\springcloud\providertwo\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayoneApplication">
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoli.configclient.ConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoli.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumeroneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumerone" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoli.consumerone.ConsumeroneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayoneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gatewayone" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoli.gatewayone.GatewayoneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderfourApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="providerfour" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoli.providerfour.ProviderfourApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProvideroneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="providerone" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoli.providerone.ProvideroneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderthreeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="providerthree" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoli.providerthree.ProviderthreeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProvidertwoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="providertwo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoli.providertwo.ProvidertwoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServeroneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="serverone" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoli.serverone.ServeroneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServertwoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servertwo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaoli.servertwo.ServertwoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ConsumeroneApplication" />
+      <item itemvalue="Spring Boot.ProvideroneApplication" />
+      <item itemvalue="Spring Boot.ProvidertwoApplication" />
+      <item itemvalue="Spring Boot.ServeroneApplication" />
+      <item itemvalue="Spring Boot.ServertwoApplication" />
+      <item itemvalue="Spring Boot.ProviderthreeApplication" />
+      <item itemvalue="Spring Boot.ProviderfourApplication" />
+      <item itemvalue="Spring Boot.GatewayoneApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.22267759" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de266470-b33b-4299-a852-1ab2876a2649" name="Default Changelist" comment="" />
+      <created>1582255546271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582255546271</updated>
+      <workItem from="1582255547983" duration="1708000" />
+      <workItem from="1582334830153" duration="27923000" />
+      <workItem from="1582416338171" duration="22916000" />
+      <workItem from="1582505538386" duration="1534000" />
+      <workItem from="1582592078630" duration="1797000" />
+      <workItem from="1582698947277" duration="5320000" />
+      <workItem from="1582711413386" duration="11340000" />
+      <workItem from="1582759013723" duration="8158000" />
+      <workItem from="1582972679438" duration="3827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582348677547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582348677547" />
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582255665122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1582255665122" />
+    <state x="507" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582368408274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1582368408274" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1582255618165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582255618165" />
+    <state width="1137" height="201" key="GridCell.Tab.0.bottom" timestamp="1582974883015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582974883015" />
+    <state width="1137" height="201" key="GridCell.Tab.0.center" timestamp="1582974883015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582974883015" />
+    <state width="1137" height="201" key="GridCell.Tab.0.left" timestamp="1582974883015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582974883015" />
+    <state width="1137" height="201" key="GridCell.Tab.0.right" timestamp="1582974883015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582974883015" />
+    <state width="1137" height="201" key="GridCell.Tab.1.bottom" timestamp="1582974883016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582974883016" />
+    <state width="1137" height="201" key="GridCell.Tab.1.center" timestamp="1582974883016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582974883016" />
+    <state width="1137" height="201" key="GridCell.Tab.1.left" timestamp="1582974883016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582974883016" />
+    <state width="1137" height="201" key="GridCell.Tab.1.right" timestamp="1582974883016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582974883016" />
+    <state width="1137" height="201" key="GridCell.Tab.2.bottom" timestamp="1582974883016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582974883016" />
+    <state width="1137" height="201" key="GridCell.Tab.2.center" timestamp="1582974883016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1582974883016" />
+    <state width="1137" height="201" key="GridCell.Tab.2.left" timestamp="1582974883016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1582974883016" />
+    <state width="1137" height="201" key="GridCell.Tab.2.right" timestamp="1582974883016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="201" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1582974883016" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1582711260311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582711260311" />
+    <state x="330" y="122" width="1180" height="575" key="new project wizard" timestamp="1582728003000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="122" width="1180" height="575" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582728003000" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1582369149790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582369149790" />
+  </component>
+</project>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="serverone" />
+        <module name="providerthree" />
+        <module name="gatewayone" />
+        <module name="config-server" />
+        <module name="servertwo" />
+        <module name="server" />
+        <module name="providertwo" />
+        <module name="demo (1) (com.consumer)" />
+        <module name="providerfour" />
+        <module name="config-client" />
+        <module name="consumerone" />
+        <module name="providerone" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="consumerone" target="1.8" />
+      <module name="demo (1) (com.config-server)" target="1.8" />
+      <module name="demo (1) (com.consumer)" target="1.8" />
+      <module name="demo (2) (com.consumer)" target="1.8" />
+      <module name="gatewayone" target="1.8" />
+      <module name="provider" target="1.8" />
+      <module name="providerfour" target="1.8" />
+      <module name="providerone" target="1.8" />
+      <module name="providerthree" target="1.8" />
+      <module name="providertwo" target="1.8" />
+      <module name="server" target="1.8" />
+      <module name="serverone" target="1.8" />
+      <module name="servertwo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-client" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="consumerone" options="-parameters" />
+      <module name="demo (1) (com.config-server)" options="-parameters" />
+      <module name="demo (1) (com.consumer)" options="-parameters" />
+      <module name="demo (2) (com.consumer)" options="-parameters" />
+      <module name="gatewayone" options="-parameters" />
+      <module name="provider" options="-parameters" />
+      <module name="providerfour" options="-parameters" />
+      <module name="providerone" options="-parameters" />
+      <module name="providerthree" options="-parameters" />
+      <module name="providertwo" options="-parameters" />
+      <module name="server" options="-parameters" />
+      <module name="serverone" options="-parameters" />
+      <module name="servertwo" options="-parameters" />
+    </option>
+  </component>
+</project>

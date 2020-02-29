@@ -1,0 +1,14 @@
+server:
+  port: 8002
+spring:
+  application:
+    name: consumer-ticket
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://zzzzzz:8761/eureka/,http://llllll:8763/eureka/
+hystrix:
+  metrics:
+    enabled: true

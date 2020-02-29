@@ -1,0 +1,26 @@
+#server:
+#  port: 6001
+#spring:
+#  application:
+#    name: provider-ticket
+#  datasource:
+#    url: jdbc:postgresql://127.0.0.1:5432/XIAOLI
+#    username: postgres
+#    password: P@ssw0rd
+#    driver-class-name: org.postgresql.Driver
+#
+#mybatis:
+#  mapper-locations: classpath:mapper/*.xml
+#  type-aliases-package: com.xiaoli.providerone.entity
+
+#eureka:
+#  instance:
+#    prefer-ip-address: true
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka/,http://localhost:8763/eureka/
+#info:
+#  app.name: atguigu-microservicecloud
+#  company.name: www.atguigu.com
+#  build.artifactId: $project.artifactId$
+#  build.version: $project.version$

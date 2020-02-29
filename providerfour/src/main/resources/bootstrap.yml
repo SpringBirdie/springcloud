@@ -1,0 +1,38 @@
+server:
+  port: 6004
+spring:
+  application:
+    name: provider-two
+  cloud:
+    config:
+      name: providerone
+      profile: dev
+      label: master
+      discovery:
+        enabled: true
+        serviceId: config-server
+    bus:
+      trace:
+        enabled: true
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://zzzzzz:8761/eureka/,http://llllll:8763/eureka/
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.xiaoli.providerfour.entity

@@ -1,0 +1,24 @@
+server:
+  port: 5001
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: api-gateway
+          uri: lb://provider-one
+          predicates:
+            - Path=/xl/**
+        - id: api-gateway
+          uri: lb://provider-two
+          predicates:
+            - Path=/zty/**
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://zzzzzz:8761/eureka/,http://llllll:8763/eureka/

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/server/pom.xml" />
+        <option value="$PROJECT_DIR$/serverone/pom.xml" />
+        <option value="$PROJECT_DIR$/providerone/pom.xml" />
+        <option value="$PROJECT_DIR$/providertwo/pom.xml" />
+        <option value="$PROJECT_DIR$/servertwo/pom.xml" />
+        <option value="$PROJECT_DIR$/consumerone/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/providerthree/pom.xml" />
+        <option value="$PROJECT_DIR$/providerfour/pom.xml" />
+        <option value="$PROJECT_DIR$/gatewayone/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
