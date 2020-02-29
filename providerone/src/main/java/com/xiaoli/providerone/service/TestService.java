@@ -12,7 +12,7 @@ public class TestService {
     private TestMapper testDao;
 
     public String TestMethod(){
-        return "你好，李冬1";
+        return "hello，李冬1";
     }
 
     public String getValue() {
