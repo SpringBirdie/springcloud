@@ -30,6 +30,7 @@ public class TestController {
     }
 
     public String getHystrix() {
+		//测试提交
         return "getHystrix";
     }
 }
